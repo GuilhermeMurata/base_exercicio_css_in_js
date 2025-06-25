@@ -3,7 +3,7 @@ import { CabecalhoContainer, Titulo } from './Cabecalho.styled'
 function Cabecalho() {
   return (
     <CabecalhoContainer>
-      <Titulo>Vagas Front-end</Titulo>
+      <Titulo>Vagas</Titulo>
     </CabecalhoContainer>
   )
 }
