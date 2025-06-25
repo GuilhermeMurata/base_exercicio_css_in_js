@@ -12,7 +12,6 @@ function Formulario({ aoPesquisar }) {
     const tecnologia = e.target.elements.tecnologia.value
     aoPesquisar(tecnologia)
   }
-
   return (
     <FormularioContainer>
       <Form onSubmit={submitHandler}>

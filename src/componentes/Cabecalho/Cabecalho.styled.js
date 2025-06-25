@@ -7,7 +7,6 @@ export const CabecalhoContainer = styled.header`
   align-items: center;
   justify-content: center;
 `
-
 export const Titulo = styled.h1`
   font-size: 32px;
   color: #f8fafc;

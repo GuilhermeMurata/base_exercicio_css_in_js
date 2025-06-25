@@ -1,5 +1,4 @@
 import styled from 'styled-components'
-
 export const VagaContainer = styled.div`
   border: 1px solid #cbd5e1;
   padding: 16px;

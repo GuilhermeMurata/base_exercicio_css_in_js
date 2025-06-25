@@ -1,6 +1,5 @@
 import Vaga from '../../componentes/Vaga'
 import { ListaContainer } from './ListaVagas.styled'
-
 function ListaVagas({ vagas }) {
   return (
     <ListaContainer>

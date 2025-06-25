@@ -21,7 +21,6 @@ function App() {
       local: 'São Paulo'
     }
   ]
-
   const aoPesquisar = (tecnologia) => {
     const filtradas = vagas.filter((vaga) =>
       vaga.titulo.toLowerCase().includes(tecnologia.toLowerCase())

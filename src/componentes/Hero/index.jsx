@@ -1,5 +1,4 @@
 import { HeroContainer, HeroTitulo, HeroDescricao } from './Hero.styled'
-
 function Hero() {
   return (
     <HeroContainer>

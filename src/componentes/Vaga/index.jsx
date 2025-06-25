@@ -1,5 +1,4 @@
 import { VagaContainer, Titulo, Descricao, Info } from './Vaga.styled'
-
 function Vaga({ titulo, descricao, senioridade, local }) {
   return (
     <VagaContainer>
